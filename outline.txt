@@ -1,0 +1,43 @@
+// specificity
+// jargon
+
+dot .
+parens ()
+braces [] aka square brackets
+curlies/ curly braces {}
+pound #
+bling $
+bang !
+whack /
+splat * aka star
+
+// pi specific
+paddywhack \
+
+// HTML jargon
+<element></element>
+<tag></tag>
+
+<label id='asdf'></label>
+<label id="asdf"></label>
+// "id" is a tag in the above
+
+////////// OUR PROJECT /////////
+// versioning
+0.1 html hello world x
+0.2 js hello world x
+0.3 js function hello world x
+0.4 hello world button x
+0.5 text input from user, concatenate text x
+0.6 comparison function
+0.7 global variable
+0.8 select element
+0.9 function with params
+1.0 math operators
+
+// technologies
+html
+javascript
+
+// output
+browser console
