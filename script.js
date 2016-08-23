@@ -1,12 +1,12 @@
 console.log( 'script.js is sourced... also Hello World' );
 // global variable
-var correctAnswer = 'Talisman';
+var correctAnswer = 'Brian';
 
 var compareUserInput = function( inputFromUser ){
   // input from user is likely coming from getUserInput which gets it's value from the nameIn element on HTML
   console.log( 'in compareUserInput:', inputFromUser );
   if( inputFromUser == correctAnswer ){
-    console.log( 'wooof!' );
+    console.log( '(sips martini and winks)' );
   }
   else{
     console.log( 'whimper' );
