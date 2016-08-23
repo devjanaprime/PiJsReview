@@ -11,6 +11,25 @@ bang !
 whack /
 splat * aka star
 
+NaN - not a number (bread)
+
+/////////////////////////
+Cmd + R - refresh
+Cmd + shift + R - forced refresh
+use incognito mode when doing stuff
+
+// basic computer stuff
+multiple desktops:
+full screen with the green
+three finger swipe l/r to move between "desktops"
+cmd + option + i open inspector
+or rt- click and choose "inspect"
+can open multiple tabs in OSX terminal
+
+// atom specific
+cmd + / comments out a line or block of lines
+quoting something, can first type, then highlight, then hit encapsulator
+
 // pi specific
 paddywhack \
 
@@ -20,7 +39,7 @@ paddywhack \
 
 <label id='asdf'></label>
 <label id="asdf"></label>
-// "id" is a tag in the above
+// "id" is a tag in the above "label" element
 
 ////////// OUR PROJECT /////////
 // versioning
@@ -29,10 +48,10 @@ paddywhack \
 0.3 js function hello world x
 0.4 hello world button x
 0.5 text input from user, concatenate text x
-0.6 comparison function
-0.7 global variable
-0.8 select element
-0.9 function with params
+0.6 comparison function x
+0.7 function with params x
+0.8 global variable x
+0.9 select element x 
 1.0 math operators
 
 // technologies
